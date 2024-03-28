@@ -1,4 +1,4 @@
-# Authentic-rails
+# Authentic-Rails 📰
 
 
 Aplicação para verificação de autenticação e papéis de usuários
